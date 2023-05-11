@@ -11,7 +11,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-FROM ubuntu:xenial-20210416
+FROM ubuntu:lunar-20230415
 
 MAINTAINER AdoptOpenJDK <adoption-discuss@openjdk.java.net>
 
